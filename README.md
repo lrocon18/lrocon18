@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá a todos! 👋
+
+🔭 Atuo com JavaScript e Cypress.
+
+🌱 Buscando aprender mais sobre ferramentas e técnicas de teste.
+
+📫 Contato: lucas.piovezan8@gmail.com
 
 <div>
 <a href="https://github.com/lrocon18">
