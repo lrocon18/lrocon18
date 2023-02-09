@@ -1,6 +1,6 @@
-###                                   Olá a todos! 👋
+###  Olá a todos! 👋
 
-🔭 Atuo com JavaScript e Cypress.
+🔭 Atualmente tenho experiência com JavaScript e Cypress.
 
 🌱 Buscando aprender mais sobre ferramentas e técnicas de teste.
 
@@ -10,4 +10,30 @@
 <a href="https://github.com/lrocon18">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lrocon18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrocon18&layout=compact&langs_count=7&theme=dracula"/>
+ </div>
+
+## Ferramentas de Teste:
+<div>
+<img alt="postman" height="40" width="40" src="https://camo.githubusercontent.com/9f1ca3b98fb55939fd8e45b6299cc9dfee7163ec9f663fd6f43fc5cfda3c118f/68747470733a2f2f7777772e7376677265706f2e636f6d2f646f776e6c6f61642f3335343230322f706f73746d616e2d69636f6e2e737667" data-canonical-src="https://www.svgrepo.com/download/354202/postman-icon.svg" style="max-width: 100%;">
+<img alt="cypress" height="40" width="40" src="https://camo.githubusercontent.com/92ea4ceaecae93a7aa14fba9fc807f861853245e512a47bc16615277ac4e3a79/68747470733a2f2f61737365742e6272616e6466657463682e696f2f696449715f6b463072622f696476337a776d5369592e6a706567" data-canonical-src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" style="max-width: 100%;">
+<img alt="testcomplete" height="40" width="40" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://d4.alternativeto.net/p-3PwZD6Blw2Ew8OQe7NlQvXxdDiqocyAb5Uim87EQI/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy90ZXN0Y29tcGxldGVfOTk3OTMucG5n.png">
+</div>
+  
+## Ferramentas e Linguagens:
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" style="max-width: 100%;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="max-width: 100%;"/>      
+</div>
+
+## Integração Contínua:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" style="max-width: 100%;"/>     
+</div>
+
+ ## Contatos:
+
+<div>
+<a href = "mailto:lucas.piovezan8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-rocon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
