@@ -1,6 +1,6 @@
 ###  Olá a todos! 👋
 
-🔭 Atualmente tenho experiência com JavaScript e Cypress.
+🔭 Atualmente tenho experiência com JavaScript, Cypress, Postman, Jenkins e TestComplete.
 
 🌱 Buscando aprender mais sobre ferramentas e técnicas de teste.
 
