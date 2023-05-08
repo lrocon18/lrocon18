@@ -31,6 +31,9 @@
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" style="max-width: 100%;"/>     
 </div>
+<div>
+<imag src="https://cdn.iconscout.com/icon/free/png-512/free-azure-devops-3628645-3029870.png?f=avif&w=256" alt="azure" width="40" height="40" style="max-width: 100%";"/>
+</div>
 
 ## Metas 2023:
 <div>
